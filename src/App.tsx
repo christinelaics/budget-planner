@@ -1,7 +1,4 @@
-import {Routes, Route } from 'react-router-dom';
-// import Navbar from './components/Navbar';
-// import Home from './pages/Home';
-import './App.css'
+import { Routes, Route } from 'react-router-dom';
 import BudgetPlanner from './pages/BudgetPlanner';
 
 export default function App() {
